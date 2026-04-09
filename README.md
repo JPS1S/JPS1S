@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Pedro Caballero!
+# 🚀 João Pedro Caballero | Engenharia de Software UFMS | QA & SDET Student
 
 <div align="center">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-UFMS-blue?style=flat-square&logo=github" alt="Engenharia de Software UFMS">
