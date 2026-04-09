@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, sou acadêmico do 3º semestre de **Engenharia de Software na UFMS** (Universidade Federal de Mato Grosso do Sul). Tenho uma trajetória multidisciplinar, onde passei por áreas como **Infraestrutura de TI, Suporte Técnico** e Gestão de Processos Administrativos e Logísticos.
+Atualmente, sou acadêmico de **Engenharia de Software na UFMS** (Universidade Federal de Mato Grosso do Sul). Tenho uma trajetória multidisciplinar, onde passei por áreas como **Infraestrutura de TI, Suporte Técnico** e Gestão de Processos Administrativos e Logísticos.
 
 Hoje, meu grande foco é me especializar na área de **Garantia de Qualidade de Software (QA)** e me tornar um **SDET** (Software Development Engineer in Test). Acredito que a qualidade deve ser uma responsabilidade de todos na equipe de desenvolvimento e que entender de infraestrutura me dá uma base sólida para testes de ambiente e integração.
 
